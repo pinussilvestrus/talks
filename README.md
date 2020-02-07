@@ -9,4 +9,5 @@ Collection of Talks in the past
 
 ## 2020
 * [How to deal with large DRDs](https://speakerdeck.com/pinussilvestrus/how-to-deal-with-large-drds) (January 14th, 2020)
-* [Products Team Session - VS Code Extension](https://speakerdeck.com/pinussilvestrus/products-team-session-vs-code-extension) (Januara 22nd, 2020)
+* [Products Team Session - VS Code Extension](https://speakerdeck.com/pinussilvestrus/products-team-session-vs-code-extension) (January 22nd, 2020)
+* [My Day at Camunda](https://speakerdeck.com/pinussilvestrus/my-day-at-camunda) (February 7th, 2020)
