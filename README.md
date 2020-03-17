@@ -13,3 +13,4 @@ Collection of Talks in the past
 * [My Day at Camunda](https://speakerdeck.com/pinussilvestrus/my-day-at-camunda) (February 7th, 2020)
 * [Create your first VS Code Extension](https://speakerdeck.com/pinussilvestrus/create-your-first-vs-code-extension) (February 17th, 2020)
 * [The JAMstack - more  than a buzzword](https://speakerdeck.com/pinussilvestrus/the-jamstack-more-than-a-buzzword) (February 25th, 2020)
+* [What I learned from using Svelte for the demos](https://speakerdeck.com/pinussilvestrus/what-i-learned-from-using-svelte-for-the-demos) (March 17th, 2020)
