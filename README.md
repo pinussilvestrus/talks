@@ -15,3 +15,4 @@ Collection of Talks in the past
 * [The JAMstack - more  than a buzzword](https://speakerdeck.com/pinussilvestrus/the-jamstack-more-than-a-buzzword) (February 25th, 2020)
 * [What I learned from using Svelte for the demos](https://speakerdeck.com/pinussilvestrus/what-i-learned-from-using-svelte-for-the-demos) (March 17th, 2020)
 * [Creating Quick Demos with Figma, jQuery and Netlify - Lessons Learned](https://speakerdeck.com/pinussilvestrus/creating-quick-demos) (March 30th, 2020)
+* [DMN Innovation Process - Tech Talk](https://speakerdeck.com/pinussilvestrus/tech-talk-dmn-innovation-process) (May 12th, 2020)
