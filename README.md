@@ -17,3 +17,4 @@ Collection of Talks in the past
 * [Creating Quick Demos with Figma, jQuery and Netlify - Lessons Learned](https://speakerdeck.com/pinussilvestrus/creating-quick-demos) (March 30th, 2020)
 * [DMN Innovation Process - Tech Talk](https://speakerdeck.com/pinussilvestrus/tech-talk-dmn-innovation-process) (May 12th, 2020)
 * [DMN Innovation Process - Camunda User Group Switzerland](https://www.youtube.com/watch?v=YCIm07D88ps&feature=youtu.be) (June 25th, 2020)
+* [Create varied applications with Svelte](https://speakerdeck.com/pinussilvestrus/tech-talk-create-varied-applications-with-svelte) (August 18th, 2020)
