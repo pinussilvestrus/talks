@@ -18,3 +18,4 @@ Collection of Talks in the past
 * [DMN Innovation Process - Tech Talk](https://speakerdeck.com/pinussilvestrus/tech-talk-dmn-innovation-process) (May 12th, 2020)
 * [DMN Innovation Process - Camunda User Group Switzerland](https://www.youtube.com/watch?v=YCIm07D88ps&feature=youtu.be) (June 25th, 2020)
 * [Create varied applications with Svelte](https://speakerdeck.com/pinussilvestrus/tech-talk-create-varied-applications-with-svelte) (August 18th, 2020)
+* [Camunda Modeler Excel Import Plugin](https://speakerdeck.com/pinussilvestrus/camunda-modeler-excel-import-plugin) (8th October, 2020)
