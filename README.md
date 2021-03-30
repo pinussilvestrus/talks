@@ -23,3 +23,4 @@ Collection of Talks in the past
 ## 2021
 * [Transform to GitHub Actions - Lessons Learned](https://speakerdeck.com/pinussilvestrus/transform-to-github-actions) (26th January, 2021)
 * [Hour of Code - `zeebe-api#getZeebeClient`](https://cdn.statically.io/gh/pinussilvestrus/talks/master/talks/HourOfCode_getZeebeClient.html) (9th February, 2021)
+* [JSON Schema Validation @Camunda Modeler](https://speakerdeck.com/pinussilvestrus/json-schema-validation-at-camunda-modeler) (30th March, 2021)
