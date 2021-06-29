@@ -24,4 +24,5 @@ Collection of Talks in the past
 * [Transform to GitHub Actions - Lessons Learned](https://speakerdeck.com/pinussilvestrus/transform-to-github-actions) (26th January, 2021)
 * [Hour of Code - `zeebe-api#getZeebeClient`](https://cdn.statically.io/gh/pinussilvestrus/talks/master/talks/HourOfCode_getZeebeClient.html) (9th February, 2021)
 * [JSON Schema Validation @Camunda Modeler](https://speakerdeck.com/pinussilvestrus/json-schema-validation-at-camunda-modeler) (30th March, 2021)
-* [From webpack to vite](https://speakerdeck.com/pinussilvestrus/move-from-webpack-to-vite) (18th, May, 2021)
+* [From webpack to vite](https://speakerdeck.com/pinussilvestrus/move-from-webpack-to-vite) (18th May, 2021)
+* [How to break down](https://speakerdeck.com/pinussilvestrus/how-to-break-down) (29th June, 2021)
