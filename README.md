@@ -26,3 +26,4 @@ Collection of Talks in the past
 * [JSON Schema Validation @Camunda Modeler](https://speakerdeck.com/pinussilvestrus/json-schema-validation-at-camunda-modeler) (30th March, 2021)
 * [From webpack to vite](https://speakerdeck.com/pinussilvestrus/move-from-webpack-to-vite) (18th May, 2021)
 * [How to break down](https://speakerdeck.com/pinussilvestrus/how-to-break-down) (29th June, 2021)
+* [Roller coaster mining with Camunda Cloud](https://speakerdeck.com/pinussilvestrus/roller-coaster-mining-with-camunda-cloud) (9th September, 2021)
