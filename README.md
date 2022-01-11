@@ -27,3 +27,6 @@ Collection of Talks in the past
 * [From webpack to vite](https://speakerdeck.com/pinussilvestrus/move-from-webpack-to-vite) (18th May, 2021)
 * [How to break down](https://speakerdeck.com/pinussilvestrus/how-to-break-down) (29th June, 2021)
 * [Roller coaster mining with Camunda Cloud](https://speakerdeck.com/pinussilvestrus/roller-coaster-mining-with-camunda-cloud) (9th September, 2021)
+
+## 2022
+* [Automatic a11y testing with axe](https://speakerdeck.com/pinussilvestrus/automatic-a11y-testing-with-axe) (7th January 2022)
