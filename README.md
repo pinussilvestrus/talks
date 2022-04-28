@@ -31,3 +31,4 @@ Collection of Talks in the past
 ## 2022
 * [Automatic a11y testing with axe](https://speakerdeck.com/pinussilvestrus/automatic-a11y-testing-with-axe) (7th January 2022)
 * [What the `$ref` - creating composable JSON Schemas](https://speakerdeck.com/pinussilvestrus/composable-json-schema) (8th February 2022)
+* [Taking Templates to the Limit - Create Bulletproof Camunda Element Templates with JSON Schema](https://speakerdeck.com/pinussilvestrus/taking-templates-to-the-limit) (28th April 2022)
