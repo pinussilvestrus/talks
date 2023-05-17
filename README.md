@@ -33,3 +33,6 @@ Collection of Talks in the past
 * [What the `$ref` - creating composable JSON Schemas](https://speakerdeck.com/pinussilvestrus/composable-json-schema) (8th February 2022)
 * [Taking Templates to the Limit - Create Bulletproof Camunda Element Templates with JSON Schema](https://speakerdeck.com/pinussilvestrus/taking-templates-to-the-limit) (28th April 2022)
 * [a11y testing - Knowledge exchange](https://speakerdeck.com/pinussilvestrus/a11y-testing) (21st November 2022)
+
+## 2023
+*  [a11y testing](https://speakerdeck.com/pinussilvestrus/a11y-testing-d771bedb-9a56-4e2b-a01f-2b338588aaec) (17th May 2023)
