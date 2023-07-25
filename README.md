@@ -36,3 +36,4 @@ Collection of Talks in the past
 
 ## 2023
 *  [a11y testing](https://speakerdeck.com/pinussilvestrus/a11y-testing-d771bedb-9a56-4e2b-a01f-2b338588aaec) (17th May 2023)
+* [a11y testing at the HTO team](https://speakerdeck.com/pinussilvestrus/tech-talk-a11y-testing-at-the-hto-team) (25th July 2023)
