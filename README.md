@@ -42,4 +42,4 @@ Collection of Talks in the past
 * [a11y testing: tech talk](https://speakerdeck.com/pinussilvestrus/a11y-testing-tech-talk) (4th September 2024)
 
 ## 2025
-* [Optimizing tidy: Practical Insights with the React Compiler](https://speakerdeck.com/pinussilvestrus/optimizing-tidy-practical-insights-with-the-react-compiler) (31.01.2025)
+* [Optimizing tidy: Practical Insights with the React Compiler](https://speakerdeck.com/pinussilvestrus/optimizing-tidy-practical-insights-with-the-react-compiler) (31st January 2025)
