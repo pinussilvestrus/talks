@@ -35,5 +35,11 @@ Collection of Talks in the past
 * [a11y testing - Knowledge exchange](https://speakerdeck.com/pinussilvestrus/a11y-testing) (21st November 2022)
 
 ## 2023
-*  [a11y testing](https://speakerdeck.com/pinussilvestrus/a11y-testing-d771bedb-9a56-4e2b-a01f-2b338588aaec) (17th May 2023)
+* [a11y testing](https://speakerdeck.com/pinussilvestrus/a11y-testing-d771bedb-9a56-4e2b-a01f-2b338588aaec) (17th May 2023)
 * [a11y testing at the HTO team](https://speakerdeck.com/pinussilvestrus/tech-talk-a11y-testing-at-the-hto-team) (25th July 2023)
+
+## 2024
+* [a11y testing: tech talk](https://speakerdeck.com/pinussilvestrus/a11y-testing-tech-talk) (4th September 2024)
+
+## 2025
+* [Optimizing tidy: Practical Insights with the React Compiler](https://speakerdeck.com/pinussilvestrus/optimizing-tidy-practical-insights-with-the-react-compiler) (31.01.2025)
